@@ -1,10 +1,11 @@
 # Formation Node JS
 
-<!-- ## Commande pour avoir accès à npm sur Windows
+## Erreur de sécurité sur Windows
 
+Exécutez la commande suivante
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
-``` -->
+```
 
 ---
 

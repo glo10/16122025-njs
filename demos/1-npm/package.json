@@ -1,0 +1,18 @@
+{
+  "name": "demonpm",
+  "version": "0.0.1",
+  "description": "demo npm commands",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glodie tshimini",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}

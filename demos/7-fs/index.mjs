@@ -1,12 +1,13 @@
 // module fs pour filesystem => gestion des fichiers et dossiers
-import {readFile, writeFileSync } from 'node:fs'
+import { readFile, writeFileSync } from 'node:fs'
+import { readFile as readFilePromise } from 'node:fs/promises'
 
 const me = {
     firstname: 'Glodie',
     lastname: 'Tshimini',
     age: 34
 }
-// écriture
+// écriture en mode synchrone => bloquant
 writeFileSync('./me.txt',
     JSON.stringify(me),
     { encoding: 'utf-8'},
@@ -15,7 +16,7 @@ writeFileSync('./me.txt',
     console.info('OK')
 })
 
-// Lecture
+// Lecture en mode asynchrone avec une callback function
 readFile('./me.txt', (err, content) => {
     if(!err)  {
         const meAsObject = JSON.parse(content)
@@ -25,3 +26,8 @@ readFile('./me.txt', (err, content) => {
     }
     else console.error('error', err)
 })
+
+// lecture avec une promise
+readFilePromise('./me.txt')
+.then(data => console.log('data from promise', data.toString()))
+.catch(err => console.error('error from promise', err))

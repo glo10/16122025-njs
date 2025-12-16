@@ -20,4 +20,4 @@
 
 ## Bonus
 
-1. Créez le fichier index.html avec son contenu depuis Node.
+1. Trouvez la solution pour éviter d'imbriquer les fonctions writeFile() et readFile(), l'un dans l'autre

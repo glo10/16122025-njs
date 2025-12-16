@@ -1,5 +1,5 @@
 // module fs pour filesystem => gestion des fichiers et dossiers
-import {readFile, writeFile } from 'node:fs'
+import {readFile, writeFileSync } from 'node:fs'
 
 const me = {
     firstname: 'Glodie',
@@ -7,7 +7,7 @@ const me = {
     age: 34
 }
 // écriture
-writeFile('./me.txt',
+writeFileSync('./me.txt',
     JSON.stringify(me),
     { encoding: 'utf-8'},
     (err) => {

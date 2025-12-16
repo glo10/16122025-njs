@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button>Click</button>
+    <input type="text" placeholder="tapez le texte ici">
+    <script>
+        // Demo notion de callback
+        const btn = document.querySelector('button')
+        const input = document.querySelector('input')
+        // Notation d'une fonction classique this fait référence à l'objet cible (objet qui déclenche l'événement)
+        function callbackBtnFunctionClassic(event) {
+            // this = objet courant
+            console.log('this', this)
+            console.log('click classic function', event)
+        }
+
+        // Notation ES6 avec le arrow function
+        const callbackBtnFunctionES6 = (event) => {
+            console.log('this', this)
+            console.log('click cb arrow function', event)
+        }
+        /**
+         * Changer le contexte d'exécution de la fonction callbackBtnFunctionES6
+         * en utilisant call pour lui donner un autre objet par exemple ici 
+         * l'objet btn représentant le button HTML
+         * avec call l'exécution est immédiate
+         */
+
+        callbackBtnFunctionES6.call(addEventListener, btn)
+        // avec bind(), l'exécution s'effectue au prochain appel
+        const nextCall = callbackBtnFunctionES6.bind(addEventListener, btn)
+        nextCall()
+        // callback = fonction de retour = une fonction qui est appelé dans le corps d'une autre fonction
+        btn.addEventListener('click', callbackBtnFunctionES6)
+        input.addEventListener('keypress', function(event) {
+            console.log('this', this)
+            console.log('Vous avez saisi', event.key)
+        })
+    </script>
+</body>
+</html>

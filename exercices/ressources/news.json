@@ -1,0 +1,631 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:atom": "http://www.w3.org/2005/Atom",
+      "xmlns:media": "http://search.yahoo.com/mrss/",
+      "xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+    },
+    "channel": {
+      "title": "International : Toute l’actualité sur Le Monde.fr.",
+      "description": "International  - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique International sur Le Monde.fr.",
+      "copyright": "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : syndication@lemonde.fr",
+      "link": "https://www.lemonde.fr/international/rss_full.xml",
+      "pubDate": "Tue, 28 Oct 2025 09:39:24 +0000",
+      "language": "fr",
+      "atom:link": {
+        "$": {
+          "href": "https://www.lemonde.fr/international/rss_full.xml",
+          "rel": "self",
+          "type": "application/rss+xml"
+        }
+      },
+      "item": [
+        {
+          "title": "Ouragan Melissa : des images dans l’œil du cyclone",
+          "pubDate": "Tue, 28 Oct 2025 10:35:32 +0100",
+          "description": "Le 53e escadron de reconnaissance météorologique de la réserve de l’US Air Force, les « Hurricane Hunters », a survolé l’ouragan Melissa lundi pour collecter des données vitales pour le Centre national des ouragans (NHC) américain.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/video/2025/10/28/ouragan-melissa-des-images-dans-l-il-du-cyclone_6649923_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/video/2025/10/28/ouragan-melissa-des-images-dans-l-il-du-cyclone_6649923_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/28/60/0/1920/960/644/322/60/0/483f939_ftp-import-images-1-m52zvv1gez4d-2025-10-28t043832z-278247073-rc2skhapm76g-rtrmadp-3-storm-melissa.JPG"
+            },
+            "media:description": {
+              "_": "Une vue satellite montre la tempête tropicale Melissa, au-dessus de la mer des Caraïbes, le 27 octobre 2025. CSU/CIRA & NOAA/Handout via REUTERS",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "CSU/CIRA & NOAA/via REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "En Argentine, le président Javier Milei conforté par les urnes",
+          "pubDate": "Tue, 28 Oct 2025 10:15:16 +0100",
+          "updated": "Tue, 28 Oct 2025 10:31:43 +0100",
+          "description": "Fort de son succès dans la lutte contre l’inflation et du rejet du kirchnérisme par une grande partie de l’électorat, le président libertarien, activement soutenu par Donald Trump, est arrivé largement en tête lors des législatives du 26 octobre.",
+          "guid": {
+            "_": "https://www.lemonde.fr/idees/article/2025/10/28/en-argentine-javier-milei-conforte-par-les-urnes_6649919_3232.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/idees/article/2025/10/28/en-argentine-javier-milei-conforte-par-les-urnes_6649919_3232.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/28/720/0/8640/4320/644/322/60/0/d5e1cfd_upload-1-elgnl2aj8aaf-753312.jpg"
+            },
+            "media:description": {
+              "_": "Le président argentin, Javier Milei, après sa victoire aux élections législatives de mi-mandat, à Buenos Aires, en Argentine, le 26 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Rodrigo Abd / AP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky dit avoir encore besoin du soutien de l’UE pour « deux ou trois années » de combat contre la Russie",
+          "pubDate": "Tue, 28 Oct 2025 10:00:07 +0100",
+          "description": "Le président ukrainien s’est adressé, mardi, à la Commission, qui prévoit de débloquer progressivement les avoirs russes gelés. « Je leur ai dit que nous n’allions pas nous battre pendant des décennies, mais que vous deviez montrer que, pendant un certain temps, vous seriez en mesure de fournir un soutien financier stable », a-t-il insisté.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/live/2025/10/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-avoir-encore-besoin-du-soutien-de-l-ue-pour-deux-ou-trois-annees-de-combat-contre-la-russie_6649642_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/live/2025/10/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-dit-avoir-encore-besoin-du-soutien-de-l-ue-pour-deux-ou-trois-annees-de-combat-contre-la-russie_6649642_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/376/0/4014/2007/644/322/60/0/79a904f_ftp-import-images-1-u32j1wrhd01x-2025-10-27t151121z-601524992-rc2dkhaen0k9-rtrmadp-3-ukraine-crisis-donetsk-region.JPG"
+            },
+            "media:description": {
+              "_": "Dans les rues de la ville de Bilozerske, dans l’oblast de Donetsk, après une attaque russe, le 27 octobre 2025.\n",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Anatolii Stepanov / REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "La BCE critiquée sur le niveau de ses taux, pénalisants pour la France",
+          "pubDate": "Tue, 28 Oct 2025 10:00:02 +0100",
+          "updated": "Tue, 28 Oct 2025 10:26:17 +0100",
+          "description": "La BCE se réunit jeudi 30 octobre et ne baissera sans doute pas ses taux d’intérêt. Au grand dam d’un nombre grandissant d’économistes, qui considèrent que ce niveau (2 %) est trop élevé pour de nombreuses économies de la zone euro, et en particulier la France.",
+          "guid": {
+            "_": "https://www.lemonde.fr/economie/article/2025/10/28/la-banque-centrale-europeenne-critiquee-sur-le-niveau-de-ses-taux-penalisants-pour-la-france_6649916_3234.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/economie/article/2025/10/28/la-banque-centrale-europeenne-critiquee-sur-le-niveau-de-ses-taux-penalisants-pour-la-france_6649916_3234.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/23/392/0/4714/2357/644/322/60/0/0dfd2a9_ftp-import-images-1-kac1mhbnvnzw-5246531-01-06.jpg"
+            },
+            "media:description": {
+              "_": "La présidente de la Banque centrale européenne (BCE), Christine Lagarde (à gauche), s’entretient avec le président français, Emmanuel Macron, lors d’un dîner de travail du sommet de la zone euro, à Bruxelles, le 23 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "FRANCOIS WALSCHAERTS / AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "En Allemagne, le partenariat de Rheinmetall avec l’américain Anduril suscite la controverse",
+          "pubDate": "Tue, 28 Oct 2025 09:45:03 +0100",
+          "updated": "Tue, 28 Oct 2025 10:28:22 +0100",
+          "description": "L’accord entre les deux groupes pour fabriquer des drones relance le débat sur la souveraineté européenne. La dépendance technologique du champion allemand de l’armement envers les États-Unis divise économistes et experts de la défense.",
+          "guid": {
+            "_": "https://www.lemonde.fr/economie/article/2025/10/28/en-allemagne-le-partenariat-de-rheinmetall-avec-l-americain-anduril-suscite-la-controverse_6649915_3234.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/economie/article/2025/10/28/en-allemagne-le-partenariat-de-rheinmetall-avec-l-americain-anduril-suscite-la-controverse_6649915_3234.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/551/0/8192/4096/644/322/60/0/4b4772c_upload-1-7lnfpulh704s-2025-09-10t020430z-522935924-rc2ooga3a3po-rtrmadp-3-australia-defence.JPG"
+            },
+            "media:description": {
+              "_": "Un véhicule sous-marin autonome Anduril Ghost Shark est exposé dans la base de la marine royale australienne HMAS Kuttabul, à Sydney, en Australie, le 10 septembre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Hollie Adams / REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Adrien Abecassis, diplomate : « Voulons-nous que l’IA soit un marché de dépendances ou une infrastructure de liberté ? »",
+          "pubDate": "Tue, 28 Oct 2025 09:00:12 +0100",
+          "description": "Dans une tribune au « Monde », le directeur des initiatives politiques au Forum de Paris sur la paix appelle à créer les conditions pour qu’une majorité de pays puissent accéder aux outils d’intelligence artificielle sans devoir prêter allégeance aux Etats-Unis ou à la Chine.",
+          "guid": {
+            "_": "https://www.lemonde.fr/idees/article/2025/10/28/adrien-abecassis-diplomate-voulons-nous-que-l-ia-soit-un-marche-de-dependances-ou-une-infrastructure-de-liberte_6649914_3232.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/idees/article/2025/10/28/adrien-abecassis-diplomate-voulons-nous-que-l-ia-soit-un-marche-de-dependances-ou-une-infrastructure-de-liberte_6649914_3232.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/17/125/0/1500/750/644/322/60/0/fd8adc3_upload-1-z3ok1gh8aeo3-frame-1414.jpg"
+            }
+          }
+        },
+        {
+          "title": "Au Japon, l’homme suspecté d’avoir assassiné l’ancien premier ministre Shinzo Abe plaide coupable",
+          "pubDate": "Tue, 28 Oct 2025 07:35:50 +0100",
+          "updated": "Tue, 28 Oct 2025 10:35:29 +0100",
+          "description": "Tetsuya Yamagami, 45 ans, est accusé d’avoir tiré sur l’ancien dirigeant japonais lors d’un meeting électoral, en juillet 2022. « Tout est vrai, je l’ai fait », a-t-il déclaré mardi à l’ouverture de son procès.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/28/au-japon-l-homme-suspecte-d-avoir-assassine-l-ancien-premier-ministre-shinzo-abe-plaide-coupable_6649911_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/28/au-japon-l-homme-suspecte-d-avoir-assassine-l-ancien-premier-ministre-shinzo-abe-plaide-coupable_6649911_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/28/154/0/3000/1500/644/322/60/0/41c8bbb_ftp-import-images-1-veabim8cggj6-5285089-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Une voiture qui serait celle transportant Tetsuya Yamagami arrive au tribunal du district de Nara pour son premier procès, le 28 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "JIJI PRESS/AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "EN DIRECT, Gaza : le corps d’un seizième otage remis par le Hamas a été rapatrié en Israël",
+          "pubDate": "Tue, 28 Oct 2025 06:20:42 +0100",
+          "updated": "Tue, 28 Oct 2025 07:21:26 +0100",
+          "description": "Douze dépouilles mortelles d’otages n’ont pas encore été restituées, malgré les termes de l’accord du cessez-le-feu entré en vigueur le 10 octobre. Le Hamas argue de difficultés pour retrouver les corps au milieu d’un champ de ruines.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/live/2025/10/28/en-direct-gaza-israel-a-recupere-le-corps-d-un-seizieme-otage-rendu-par-le-hamas_6649770_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/live/2025/10/28/en-direct-gaza-israel-a-recupere-le-corps-d-un-seizieme-otage-rendu-par-le-hamas_6649770_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/319/0/3842/1921/644/322/60/0/923ff86_ftp-import-images-1-aj3oos3dd1p5-2025-10-27t203448z-16358098-rc2jkhalex1n-rtrmadp-3-israel-palestinians-gaza.JPG"
+            },
+            "media:description": {
+              "_": "La Croix-Rouge transporte le corps d’un otage enlevé le 7 octobre 2023, dans la bande de Gaza, le 27 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Dawoud Abu Alkas / REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "« Le pessimisme s’est installé dans une Chine auparavant si optimiste »",
+          "pubDate": "Tue, 28 Oct 2025 06:00:00 +0100",
+          "updated": "Tue, 28 Oct 2025 08:01:52 +0100",
+          "description": "L’économie chinoise avance péniblement, et le journaliste Harold Thibault décrit, dans sa chronique, une société civile encline au doute, après la valse-hésitation de la politique autoritaire conduite par Xi Jinping.",
+          "guid": {
+            "_": "https://www.lemonde.fr/idees/article/2025/10/28/le-pessimisme-s-est-installe-dans-une-chine-auparavant-si-optimiste_6649899_3232.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/idees/article/2025/10/28/le-pessimisme-s-est-installe-dans-une-chine-auparavant-si-optimiste_6649899_3232.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/03/09/474/0/5738/2869/644/322/60/0/09d5ec9_ftp-import-images-1-938dfykipfgh-5266238-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Sur un marché de primeurs, à Pékin, le 9 mars 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "GREG BAKER / AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Etats-Unis et Japon signent un accord sur les terres rares pour faire face aux restrictions chinoises",
+          "pubDate": "Tue, 28 Oct 2025 04:57:41 +0100",
+          "updated": "Tue, 28 Oct 2025 07:21:16 +0100",
+          "description": "A Tokyo, la nouvelle première ministre japonaise, Sanae Takaichi, a déclaré vouloir ouvrir « un nouvel âge d’or » des relations nippo-américaines lors de la visite de Donald Trump alors que les deux pays ont scellé une alliance pour lutter contre la domination chinoise sur les terres rares.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/28/etats-unis-et-japon-signent-un-accord-sur-les-terres-rares-pour-faire-face-aux-restrictions-chinoises_6649888_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/28/etats-unis-et-japon-signent-un-accord-sur-les-terres-rares-pour-faire-face-aux-restrictions-chinoises_6649888_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/28/458/0/5500/2750/644/322/60/0/cfbbea0_ftp-import-images-1-iz3t8ave71pl-2025-10-28t024332z-637081130-rc2qkha3bq89-rtrmadp-3-usa-trump-japan.JPG"
+            },
+            "media:description": {
+              "_": "Le président américain, Donald Trump, et la première ministre japonaise, Sanae Takaichi, lors d’un entretien au palais d’Akasaka, à Tokyo, le 28 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Evelyn Hockstein/REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "En Colombie, arrestation de l’intermédiaire principal dans l’assassinat de Miguel Uribe",
+          "pubDate": "Tue, 28 Oct 2025 03:48:06 +0100",
+          "updated": "Tue, 28 Oct 2025 07:08:42 +0100",
+          "description": "Alors que les commanditaires de l’attaque n’ont toujours pas été identifiés, il s’agit de la plus importante interpellation dans le cadre de l’enquête visant à élucider cet attentat.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/28/arrestation-en-colombie-de-l-intermediaire-dans-l-assassinat-de-miguel-uribe_6649886_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/28/arrestation-en-colombie-de-l-intermediaire-dans-l-assassinat-de-miguel-uribe_6649886_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/08/23/516/0/6192/3096/644/322/60/0/fe05d0f_ftp-import-images-1-km5lzrgpb45g-5696038-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Un portrait du candidat à la présidentielle colombienne, Miguel Uribe, sur le site de son assassinat, à Bogota, le 23 août 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "RAUL ARBOLEDA/AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Au Canada, Marineland menace d’euthanasier ses bélugas",
+          "pubDate": "Tue, 28 Oct 2025 03:00:01 +0100",
+          "updated": "Tue, 28 Oct 2025 08:30:06 +0100",
+          "description": "Fermé au public depuis un an et lourdement endetté, le parc aquatique a réclamé sans succès des fonds d’urgence au gouvernement fédéral pour continuer à prendre soin de ses cétacés.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/28/au-canada-marineland-menace-d-euthanasier-ses-belugas_6649884_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/28/au-canada-marineland-menace-d-euthanasier-ses-belugas_6649884_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/01/425/0/5106/2553/644/322/60/0/0096e07_ftp-import-images-1-r79noc7xgfpc-e2f26ea87d694f55a216058d03b49fe8-0-f07838e6db1d4ea4b59715e85bebee07.jpg"
+            },
+            "media:description": {
+              "_": "Au parc d’attractions Marineland à Niagara Falls, en Ontario, au Canada, le 9 juin 2023.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Chris Young / AP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Au Brésil, Jair Bolsonaro fait appel de sa condamnation pour tentative de coup d’Etat",
+          "pubDate": "Tue, 28 Oct 2025 00:49:39 +0100",
+          "updated": "Tue, 28 Oct 2025 07:48:41 +0100",
+          "description": "Condamné à vingt-sept ans de prison, l’ex-président brésilien souhaite corriger « les ambiguïtés, omissions, contradictions et obscurités » dans la décision de la Cour suprême. Le leader d’extrême droite ne pourra être incarcéré qu’après l’épuisement de tous les recours possibles.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/28/au-bresil-jair-bolsonaro-fait-appel-de-sa-condamnation-pour-tentative-de-coup-d-etat_6649882_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/28/au-bresil-jair-bolsonaro-fait-appel-de-sa-condamnation-pour-tentative-de-coup-d-etat_6649882_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/688/0/8256/4128/644/322/60/0/b3ff6d0_ftp-import-images-1-evzvtcbzrgam-5282813-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Jair Bolsonaro à sa sortie de l’hôpital DF Star à Brasilia, le 14 septembre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "PABLO PORCIUNCULA/AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "L’ouragan Melissa se rapproche de l’ouest de la Jamaïque, où « pas une seule infrastructure ne pourrait résister à un catégorie 5 », craint le gouvernement",
+          "pubDate": "Mon, 27 Oct 2025 23:58:00 +0100",
+          "updated": "Tue, 28 Oct 2025 10:17:26 +0100",
+          "description": "S’il ne perd pas en intensité, il s’agira du plus puissant ouragan à toucher terre en Jamaïque. Trois personnes sont mortes sur l’île alors qu’elles se préparaient à son arrivée.",
+          "guid": {
+            "_": "https://www.lemonde.fr/climat/article/2025/10/27/l-ouragan-mellissa-de-categorie-5-en-passe-de-frapper-la-jamaique_6649880_1652612.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/climat/article/2025/10/27/l-ouragan-mellissa-de-categorie-5-en-passe-de-frapper-la-jamaique_6649880_1652612.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/28/60/0/1920/960/644/322/60/0/483f939_ftp-import-images-1-m52zvv1gez4d-2025-10-28t043832z-278247073-rc2skhapm76g-rtrmadp-3-storm-melissa.JPG"
+            },
+            "media:description": {
+              "_": "Une vue satellite montre l’ouragan Melissa, au-dessus de la mer des Caraïbes, le 27 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "CSU/CIRA & NOAA/via REUTERS",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "En Turquie, un séisme de magnitude 6,1 a secoué l’ouest du pays",
+          "pubDate": "Mon, 27 Oct 2025 21:44:31 +0100",
+          "description": "L’Agence turque de gestion des catastrophes n’a pas fait état de victimes.",
+          "guid": {
+            "_": "https://www.lemonde.fr/planete/article/2025/10/27/en-turquie-un-seisme-de-magnitude-6-1-a-secoue-l-ouest-du-pays_6649878_3244.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/planete/article/2025/10/27/en-turquie-un-seisme-de-magnitude-6-1-a-secoue-l-ouest-du-pays_6649878_3244.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/a4171a8_upload-1-gmnv4c2b7rpr-frame-39.jpg"
+            },
+            "media:credit": {
+              "_": "« Le Monde »",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "« En Europe, les coûts de restructuration étouffent l’investissement dans l’innovation de rupture, là où l’échec est fréquent »",
+          "pubDate": "Mon, 27 Oct 2025 20:00:04 +0100",
+          "description": "Pour réveiller l’innovation en Europe, il faut supprimer le coût de l’échec, plaide, dans une tribune au « Monde », l’entrepreneur Olivier Coste, qui pointe les effets pernicieux de la protection trop forte de l’emploi pour les hauts revenus.",
+          "guid": {
+            "_": "https://www.lemonde.fr/idees/article/2025/10/27/en-europe-les-couts-de-restructuration-etouffent-l-investissement-dans-l-innovation-de-rupture-la-ou-l-echec-est-frequent_6649872_3232.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/idees/article/2025/10/27/en-europe-les-couts-de-restructuration-etouffent-l-investissement-dans-l-innovation-de-rupture-la-ou-l-echec-est-frequent_6649872_3232.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/03/125/0/1500/750/644/322/60/0/6231431_upload-1-1p7rz3eiwdep-frame-1369.jpg"
+            }
+          }
+        },
+        {
+          "title": "Carles Puigdemont, leader indépendantiste catalan, rompt son accord avec le gouvernement de Pedro Sanchez, qui n’a plus de majorité",
+          "pubDate": "Mon, 27 Oct 2025 19:33:22 +0100",
+          "updated": "Tue, 28 Oct 2025 08:07:06 +0100",
+          "description": "Cette rupture traduit le mécontentement croissant de Junts vis-à-vis du gouvernement de Pedro Sanchez, que le parti indépendantiste catalan accuse de ne pas avoir tenu ses promesses.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/27/en-espagne-carles-puigdemont-l-independantiste-catalan-rompt-son-accord-avec-les-socialistes-de-pedro-sanchez_6649868_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/27/en-espagne-carles-puigdemont-l-independantiste-catalan-rompt-son-accord-avec-les-socialistes-de-pedro-sanchez_6649868_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/670/0/8042/4021/644/322/60/0/730283a_ftp-import-images-1-n8gstful16rd-5281070-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Carles Puigdemont lors d’une conférence de presse à l’issue d’une réunion du parti Junts à Perpignan, dans les Pyrénées-Orientales, le 27 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "ED JONES / AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Au Cameroun, la victoire contestée de Paul Biya pour un huitième mandat ravive les tensions",
+          "pubDate": "Mon, 27 Oct 2025 19:32:06 +0100",
+          "updated": "Tue, 28 Oct 2025 09:53:26 +0100",
+          "description": "Le Conseil constitutionnel a proclamé, lundi 27 octobre, la victoire du président sortant avec 53,66 % des voix, contre 35,19 % pour son opposant, Issa Tchiroma Bakary, qui dénonce une fraude massive. Des affrontements ont éclaté dans des villes du pays, faisant plusieurs victimes.",
+          "guid": {
+            "_": "https://www.lemonde.fr/afrique/article/2025/10/27/au-cameroun-la-victoire-contestee-de-paul-biya-pour-un-huitieme-mandat-ravive-les-tensions_6649867_3212.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/afrique/article/2025/10/27/au-cameroun-la-victoire-contestee-de-paul-biya-pour-un-huitieme-mandat-ravive-les-tensions_6649867_3212.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/452/0/3500/1750/644/322/60/0/3eccf5a_ftp-import-images-1-oof3ntbpurqs-5281099-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Des partisans du chef de file de l’opposition camerounaise et candidat à l’élection présidentielle, Issa Tchiroma Bakary, érigent des barricades dans les rues de Yaoundé, le 27 octobre 2025. ",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Au Cameroun, des affrontements éclatent après la victoire de Paul Biya",
+          "pubDate": "Mon, 27 Oct 2025 19:26:36 +0100",
+          "description": "Selon les chiffres officiels proclamés par le Conseil constitutionnel lundi, Issa Tchiroma Bakary, principal opposant du président camerounais, est arrivé second avec 35,19 % des voix.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/video/2025/10/27/au-cameroun-des-affrontements-eclatent-apres-la-victoire-de-paul-biya_6649866_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/video/2025/10/27/au-cameroun-des-affrontements-eclatent-apres-la-victoire-de-paul-biya_6649866_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/27/291/0/3500/1750/644/322/60/0/3eccf5a_ftp-import-images-1-oof3ntbpurqs-5281099-01-06.jpg"
+            },
+            "media:description": {
+              "_": "Un partisan du leader de l’opposition camerounaise et candidat à la présidentielle Issa Tchiroma Bakary  dans la rue après l’annonce des résultats de l’élection présidentielle à Yaoundé, le 27 octobre 2025. (Photo par AFP)",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "- / AFP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        },
+        {
+          "title": "Gaza : les prémices d’un cadre humanitaire sous contrôle des Etats-Unis",
+          "pubDate": "Mon, 27 Oct 2025 19:00:07 +0100",
+          "updated": "Tue, 28 Oct 2025 00:04:57 +0100",
+          "description": "Pour acheminer et distribuer l’aide dans l’enclave, Washington dit vouloir s’appuyer en partie sur des groupes d’« assistance humanitaire », dont une organisation évangélique américaine, et des agences de l’ONU, mais en écartant l’UNRWA.",
+          "guid": {
+            "_": "https://www.lemonde.fr/international/article/2025/10/27/gaza-les-premices-d-un-cadre-humanitaire-sous-controle-des-etats-unis_6649865_3210.html",
+            "$": {
+              "isPermaLink": "true"
+            }
+          },
+          "link": "https://www.lemonde.fr/international/article/2025/10/27/gaza-les-premices-d-un-cadre-humanitaire-sous-controle-des-etats-unis_6649865_3210.html",
+          "media:content": {
+            "$": {
+              "width": "644",
+              "height": "322",
+              "url": "https://img.lemde.fr/2025/10/26/720/0/8640/4320/644/322/60/0/c294c82_ftp-import-images-1-gngyqjqkvwss-d7e298673aaf4e90aa9154e7e891684c-0-178f228cbd4541689dd9ede517455ba0.jpg"
+            },
+            "media:description": {
+              "_": "Des Palestiniens puisent de l’eau, à Gaza, le 26 octobre 2025.",
+              "$": {
+                "type": "plain"
+              }
+            },
+            "media:credit": {
+              "_": "Jehad Alshrafi/AP",
+              "$": {
+                "scheme": "urn:ebu"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

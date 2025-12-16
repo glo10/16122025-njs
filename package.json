@@ -1,0 +1,55 @@
+{
+  "name": "njs-17112025",
+  "version": "1.0.0",
+  "description": "Node",
+  "main": "index.js",
+  "scripts": {
+    "test:u": "vitest",
+    "test:i": "vitest --watch --silent=false",
+    "test:e": "cypress open",
+    "cluster:c": "node 0-admin/demo-cours/cluster.mjs",
+    "cluster:a": "autocannon -c 10 -d 15 http://localhost:9999",
+    "x2": "cd exercices/corrections/ex2 & npm run start",
+    "x2:w": "cd exercices/corrections/ex2 & npm run start:dev",
+    "x3": "cd exercices/corrections/ex3 & npm run start",
+    "x3:w": "cd exercices/corrections/ex3 & npm run start:dev",
+    "x4": "cd exercices/corrections/ex4 & npm start",
+    "x4:w": "cd exercices/corrections/ex4 & npm run start:dev",
+    "x5": "cd exercices/corrections/ex5 & npm run start:all",
+    "x5:w": "cd exercices/corrections/ex5 & npm run start:all:dev",
+    "x7": "cd exercices/corrections/ex7 & npm run start",
+    "x7:w": "cd exercices/corrections/ex7 & npm run start:w",
+    "x89:p:w": "cd exercices/corrections/ex8-9-pug & npm run start:w",
+    "x10": "cd exercices/corrections/ex10 & npm run start",
+    "x10:w": "cd exercices/corrections/ex10 & npm run start:w",
+    "x11": "cd exercices/corrections/ex11-init & npm run start",
+    "x11:w": "cd exercices/corrections/ex11-init & npm run start:w",
+    "x12:w": "cd exercices/corrections/ex12 & npm run test:w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glo10/171125-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Glodie Tshimini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glo10/161225-nodejs/issues"
+  },
+  "homepage": "https://github.com/glo10/161225-nodejs#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.0.15",
+    "concurrently": "^9.2.1",
+    "cypress": "^15.7.1",
+    "mocha": "^11.7.5",
+    "supertest": "^7.1.4",
+    "vitest": "^4.0.15"
+  },
+  "dependencies": {
+    "autocannon": "^8.0.0",
+    "clinic": "^13.0.0",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.0.1",
+    "xml2js": "^0.6.2"
+  }
+}

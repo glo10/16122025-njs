@@ -1,0 +1,27 @@
+# Exercice 3 : entrée/sortie terminal
+
+---
+
+## Énoncé
+
+1. Créez un programme `Node` qui demande le nom et prénom de l'utilisateur et qui affiche `Bonjour {{nom}} {{prenom}}` (nom et prénom à remplacer par les informations saisies par l'utilisateur)
+2. Créez un JSON qui stocke les informations renseignées par l'utilisateur.
+```json
+{
+    "firstname": "Glodie",
+    "lastname": "Tshimini"
+}
+```
+
+---
+
+## Spécifications  techniques
+
+- Utilisez le package `readline/promises` pour un traitement asynchrone des entrées et sorties
+- [Voir la documentation readline/promises](https://nodejs.org/api/readline.html)
+
+---
+
+## Bonus
+
+1. Créez un nouveau dossier nommé */users* qui stocke chaque utilisateur fichier avec l'extension *JSON*

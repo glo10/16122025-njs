@@ -1,0 +1,13 @@
+{
+  "name": "ex6-live",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve:dev": "node --watch server.mjs",
+    "client:dev": "node --watch client.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

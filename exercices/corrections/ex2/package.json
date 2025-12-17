@@ -1,0 +1,13 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "Exercise 2 read and write file",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "npm i && node index.mjs",
+    "start:dev": "npm i && node --watch index.mjs"
+  },
+  "keywords": [],
+  "author": "Glodie Tshimini",
+  "license": "ISC"
+}

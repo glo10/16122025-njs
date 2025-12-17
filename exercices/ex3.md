@@ -24,4 +24,4 @@
 
 ## Bonus
 
-1. Créez un nouveau dossier nommé */users* qui stocke chaque utilisateur fichier avec l'extension *JSON*
+1. Créez un nouveau dossier nommé */users* qui stocke les utilisateurs, 1 utilisateur  = 1 fichier *JSON*

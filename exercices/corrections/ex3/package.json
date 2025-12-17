@@ -1,0 +1,13 @@
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "npm i && node index.mjs",
+    "start:dev": "npm i && node --watch index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Exercise 3 readline"
+}

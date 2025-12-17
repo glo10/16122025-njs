@@ -1,0 +1,13 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "Exercise Web server with JSON",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "npm i && npm update && node server.mjs",
+    "start:dev": "npm i && npm update && node --watch server.mjs"
+  },
+  "keywords": [],
+  "author": "Glodie Tshimini",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <p><%= message %></p>
+    <h2>Liste des utilisateurs</h2>
+    <ul>
+      <% users.forEach(user => { %>
+      <li><%= user %></li>
+      <% }) %>
+    </ul>
+    <p>Notre administrateur <%= admin.firstname %> <%= admin.lastname %></p>
+    <p><a href="mailto:<%= admin.email %>">Envoyez un email à l'admin</a></p>
+  </body>
+</html>

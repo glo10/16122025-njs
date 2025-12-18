@@ -1,5 +1,10 @@
 # Exercice 8 : moteur de *template*
 
+## Documentation moteurs de template
+
+- [EJS](https://ejs.co/)
+- [PUG](https://pugjs.org/api/getting-started.html)
+
 ## Warning
 
 Express est codé avec le standard ***CommonJS***, il est tout à fait possible malgré tout d'écrire une application Express en utilisant le standard ***ECMAScript***. Je vous recommande d'effectuer cet exercice avec le standard ***CommonJS*** pour avoir un point de comparaison.

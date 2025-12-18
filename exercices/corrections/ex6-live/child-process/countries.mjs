@@ -1,6 +1,6 @@
 import { get } from "node:https";
 import { createWriteStream } from "node:fs";
-import { LOCAL_FILENAME } from "../utils/functions.mjs";
+import { LOCAL_FILENAME } from "../utils/constants.mjs";
 import { deleteFileAndsendErrorToParent } from "../utils/functions.mjs";
 
 /**
@@ -8,6 +8,7 @@ import { deleteFileAndsendErrorToParent } from "../utils/functions.mjs";
  *  => Le serveur va lancer le processus via node child_process/countries.mjs URL
  */
 const url = process.argv[2];
+console.log('url', url)
 /**
  * Objectif: récupérer les données depuis le serveur distant => get()
  *  Et écrire par petit paquet (écriture progressive et pas d'un coup)
@@ -30,6 +31,7 @@ get(url, (res) => {
   });
   // Prévenir le processus parent quand l'écriture est terminé
   writeLocalFileStream.on("finish", () => {
+    console.info('Fin de chargement du fichier en local depuis le serveur distant')
     process.send({ success: true });
   });
 }).on("error", (err) => {

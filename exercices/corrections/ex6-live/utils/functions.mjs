@@ -1,6 +1,7 @@
 import { unlink, createReadStream} from "node:fs";
 import { createServer } from "node:net";
 import { LOCAL_FILENAME } from "./constants.mjs";
+
 export function deleteFileAndsendErrorToParent(localFilename, error) {
   unlink(localFilename, () => {
     process.send({ success: false, error: error.message });
@@ -21,9 +22,7 @@ export function startTCPServer() {
       }
       socket.destroy();
     });
-    socket.on("close", (stream) => {
-      console.log('stream', stream)
-      // sain
+    socket.on("close", () => {
       console.log("Fin de la communication saine");
     });
   }).listen(8006, () => {

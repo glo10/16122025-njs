@@ -19,7 +19,6 @@ access(LOCAL_FILENAME, constants.F_OK, (err) => {
         console.error("Le processus enfant a renvoyé une erreur", data);
         process.exit(1);
       } else if (data.success) {
-        console.log("OK");
         startTCPServer();
       }
     });

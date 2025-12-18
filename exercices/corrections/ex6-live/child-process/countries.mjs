@@ -8,7 +8,6 @@ import { deleteFileAndsendErrorToParent } from "../utils/functions.mjs";
  *  => Le serveur va lancer le processus via node child_process/countries.mjs URL
  */
 const url = process.argv[2];
-console.log('url', url)
 /**
  * Objectif: récupérer les données depuis le serveur distant => get()
  *  Et écrire par petit paquet (écriture progressive et pas d'un coup)

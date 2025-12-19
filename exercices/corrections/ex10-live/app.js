@@ -1,5 +1,5 @@
 import express from 'express'
-
+import teamsRouter from './routes/teams-router.js'
 // initialise une instance d'Expres
 const app = express()
 

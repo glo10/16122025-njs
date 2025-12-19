@@ -1,0 +1,12 @@
+{
+  "teams": [
+    { "id": 1, "name": "Real Madrid", "country": "Spain" },
+    { "id": 2, "name": "Juventus Turin", "country": "Italy" },
+    { "id": 3, "name": "Paris Saint-Germain", "country": "France" },
+    { "id": 4, "name": "Bayern Leverkusen", "country": "Germany" }
+  ],
+  "games": [
+    { "id": 1, "home": 1, "away": 2, "score": "1-0", "date": "2025-10-22" },
+    { "id": 2, "home": 4, "away": 3, "score": "2-7", "date": "2025-10-21" }
+  ]
+}

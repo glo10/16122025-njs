@@ -18,5 +18,4 @@ export function connect() {
             console.error('connexion KO', err)
         })
     }
-
 }

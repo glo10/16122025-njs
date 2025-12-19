@@ -3,7 +3,9 @@
   "version": "1.1.0",
   "main": "index.js",
   "scripts": {
-    "start:dev": "node --watch --env-file=.env index.mjs"
+    "start:dev": "node --watch --env-file=.env index.mjs",
+    "test:i": "vitest",
+    "test:e2e": "cypress open"
   },
   "keywords": [],
   "author": "Glodie Tshimini",
@@ -14,5 +16,10 @@
     "mongodb": "^7.0.0",
     "mongoose": "^9.0.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "cypress": "^14.5.4",
+    "supertest": "^7.1.4",
+    "vitest": "^3.2.4"
+  }
 }

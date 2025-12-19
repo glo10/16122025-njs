@@ -1,4 +1,5 @@
-const checkLogin = (req, res, next, login) => {
+const checkLogin = (req, res, next) => {
+    const login = req.params.login
     if(login && login.length > 1) {
         next()
         return
@@ -7,10 +8,8 @@ const checkLogin = (req, res, next, login) => {
     }
 }
 
-const banDefunkt = (req, res, next) => {
+const protectedDefunkt = (req, res, next) => {
     if(req.url.endsWith("defunkt")) {
-        // res.status(403)
-        // res.render('error', { message: 'defunkt is protected'})
         const errorBan = new Error('defunkt is protected')
         errorBan.status = 401
         next(errorBan)
@@ -21,5 +20,5 @@ const banDefunkt = (req, res, next) => {
 
 module.exports = {
     checkLogin,
-    banDefunkt
+    protectedDefunkt
 }

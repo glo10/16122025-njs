@@ -1,5 +1,5 @@
 import { mongoose } from 'mongoose'
-export function connect() {
+export async function connect() {
     // Propriété readyState nous donne l'info sur l'état de connexion à bdd
     const state = mongoose.connection.readyState
     /**
@@ -10,12 +10,14 @@ export function connect() {
      *  3 => disconnecting (en cours de déconnexion)
      */
     if(state != 1) {
-        const url = process.env.ME_CONFIG_MONGODB_URL
+        const url = process.env.MONGO_URL
         mongoose.connect(url)
         .then(() => {
+            return mongoose.connection.readyState
             console.log('connexion OK', mongoose.connection.readyState) // égale à 1
         }).catch(err => {
             console.error('connexion KO', err)
         })
     }
+    return mongoose.connection.readyState
 }
